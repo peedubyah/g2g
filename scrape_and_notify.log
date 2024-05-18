@@ -37,3 +37,30 @@
 2024-05-18 07:31:43,606 INFO Scraped gold value: 0.037499
 2024-05-18 07:31:46,842 INFO Scraped Duriel Ticket price: 0.743
 2024-05-18 07:31:47,099 INFO Successfully sent to Discord
+2024-05-18 14:14:39,895 INFO Scraped gold value: 0.040889
+2024-05-18 14:14:42,125 INFO Scraped Duriel Ticket price: 0.912
+2024-05-18 14:15:06,229 ERROR Unexpected error: RetryError[<Future at 0x7f51283cef90 state=finished raised KeyError>]
+2024-05-18 14:15:07,270 INFO Successfully sent error message to Discord
+2024-05-18 14:16:28,047 INFO Scraped gold value: 0.040889
+2024-05-18 14:16:29,813 INFO Scraped Duriel Ticket price: 0.912
+2024-05-18 14:16:30,122 INFO Successfully sent to Discord
+2024-05-18 14:59:14,915 INFO Scraped gold value: 0.040601
+2024-05-18 14:59:18,234 INFO Scraped Duriel Ticket price: 0.78
+2024-05-18 14:59:43,796 ERROR Unexpected error: RetryError[<Future at 0x7f4091c82850 state=finished raised KeyError>]
+2024-05-18 14:59:44,126 INFO Successfully sent error message to Discord
+2024-05-18 15:03:41,281 INFO Scraped gold value: 0.0406
+2024-05-18 15:03:43,163 INFO Scraped Duriel Ticket price: 0.78
+2024-05-18 15:03:44,825 INFO Scraped Varshan Ticket price: 0.18603
+2024-05-18 15:03:45,074 INFO Successfully sent to Discord
+2024-05-18 15:10:48,285 INFO Scraped gold value: 0.0406
+2024-05-18 15:10:48,771 INFO Scraped Duriel Ticket price: 0.78
+2024-05-18 15:10:50,634 INFO Scraped Varshan Ticket price: 0.18603
+2024-05-18 15:10:50,896 INFO Successfully sent to Discord
+2024-05-18 15:14:14,972 INFO Scraped gold value: 0.0406
+2024-05-18 15:14:16,210 INFO Scraped Duriel Ticket price: 0.78
+2024-05-18 15:14:40,366 ERROR Unexpected error: RetryError[<Future at 0x7fcc64cfe6d0 state=finished raised KeyError>]
+2024-05-18 15:14:40,650 INFO Successfully sent error message to Discord
+2024-05-18 15:15:24,143 INFO Scraped gold value: 0.0406
+2024-05-18 15:15:25,368 INFO Scraped Duriel Ticket price: 0.78
+2024-05-18 15:15:26,425 INFO Scraped Varshan Ticket price: 0.18603
+2024-05-18 15:15:26,763 INFO Successfully sent to Discord
