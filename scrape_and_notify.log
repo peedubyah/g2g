@@ -1,0 +1,39 @@
+2024-05-18 05:00:01,859 ERROR Value span not found
+2024-05-18 05:00:01,860 ERROR Failed to scrape the value
+2024-05-18 05:01:16,743 ERROR Value span not found
+2024-05-18 05:01:16,745 ERROR Failed to scrape the value
+2024-05-18 05:17:15,809 INFO Scraped value: 0.03779
+2024-05-18 05:17:16,092 INFO Successfully sent to Discord
+2024-05-18 05:18:05,307 INFO Scraped value: 0.03779
+2024-05-18 05:18:05,617 INFO Successfully sent to Discord
+2024-05-18 05:23:30,443 INFO Scraped value: 0.037789
+2024-05-18 05:23:30,731 INFO Successfully sent to Discord
+2024-05-18 05:25:28,952 INFO Scraped value: 0.0377
+2024-05-18 05:25:29,312 INFO Successfully sent to Discord
+2024-05-18 05:36:42,079 INFO Scraped gold value: 0.0376
+2024-05-18 05:36:44,348 INFO Scraped Duriel Ticket price: 0.749
+2024-05-18 05:36:44,604 INFO Successfully sent to Discord
+2024-05-18 05:42:51,154 INFO Scraped gold value: 0.037599
+2024-05-18 05:42:53,532 INFO Scraped Duriel Ticket price: 0.747
+2024-05-18 05:42:53,964 INFO Successfully sent to Discord
+2024-05-18 05:45:54,864 INFO Scraped gold value: 0.037599
+2024-05-18 05:45:57,483 INFO Scraped Duriel Ticket price: 0.747
+2024-05-18 05:45:57,743 INFO Successfully sent to Discord
+2024-05-18 05:54:42,629 INFO Scraped gold value: 0.037598
+2024-05-18 05:54:44,274 INFO Scraped Duriel Ticket price: 0.747
+2024-05-18 05:54:44,566 INFO Successfully sent to Discord
+2024-05-18 05:59:36,332 INFO Scraped gold value: 0.037598
+2024-05-18 05:59:38,204 INFO Scraped Duriel Ticket price: 0.747
+2024-05-18 05:59:38,454 INFO Successfully sent to Discord
+2024-05-18 06:04:09,240 INFO Scraped gold value: 0.037598
+2024-05-18 06:04:11,389 INFO Scraped Duriel Ticket price: 0.747
+2024-05-18 06:04:11,610 INFO Successfully sent to Discord
+2024-05-18 06:05:14,467 INFO Scraped gold value: 0.037599
+2024-05-18 06:05:16,299 INFO Scraped Duriel Ticket price: 0.747
+2024-05-18 06:05:16,605 INFO Successfully sent to Discord
+2024-05-18 07:15:59,125 INFO Scraped gold value: 0.037499
+2024-05-18 07:16:01,587 INFO Scraped Duriel Ticket price: 0.743
+2024-05-18 07:16:02,045 INFO Successfully sent to Discord
+2024-05-18 07:31:43,606 INFO Scraped gold value: 0.037499
+2024-05-18 07:31:46,842 INFO Scraped Duriel Ticket price: 0.743
+2024-05-18 07:31:47,099 INFO Successfully sent to Discord
