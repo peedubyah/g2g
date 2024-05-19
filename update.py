@@ -1,6 +1,7 @@
 import requests
 import logging
 import csv
+import os
 from tenacity import retry, stop_after_attempt, wait_fixed
 from datetime import datetime
 
@@ -17,20 +18,14 @@ retry_settings = {
 # File to save the scraped data
 csv_file = 'scraped_data.csv'
 
-# Function to initialize the CSV file
-def init_csv():
-    with open(csv_file, mode='w', newline='') as file:
-        writer = csv.writer(file)
-        writer.writerow(["timestamp", "gold_value", "duriel_ticket_price", "varshan_ticket_price"])
-
 # Function to append data to the CSV file
 def append_to_csv(timestamp, gold_value, duriel_ticket_price, varshan_ticket_price):
+    file_exists = os.path.isfile(csv_file)
     with open(csv_file, mode='a', newline='') as file:
         writer = csv.writer(file)
+        if not file_exists:
+            writer.writerow(["timestamp", "gold_value", "duriel_ticket_price", "varshan_ticket_price"])
         writer.writerow([timestamp, gold_value, duriel_ticket_price, varshan_ticket_price])
-
-# Initialize the CSV file
-init_csv()
 
 # Function to scrape the Diablo IV gold value
 @retry(**retry_settings)
