@@ -76,3 +76,18 @@
 2024-05-19 16:55:34,451 INFO Scraped Duriel Ticket price: 0.8604
 2024-05-19 16:55:37,028 INFO Scraped Varshan Ticket price: 0.1908
 2024-05-19 16:55:37,540 INFO Successfully sent to Discord
+2024-05-19 19:58:01,631 INFO Scraped gold value: 0.029999
+2024-05-19 19:58:02,991 INFO Scraped Duriel Ticket price: 0.82
+2024-05-19 19:58:04,974 INFO Scraped Varshan Ticket price: 0.18285
+2024-05-19 19:58:04,979 ERROR Unexpected error: 'timestamp'
+2024-05-19 19:58:05,331 INFO Successfully sent error message to Discord
+2024-05-19 20:05:15,950 INFO Scraped gold value: 0.029899
+2024-05-19 20:05:17,691 INFO Scraped Duriel Ticket price: 0.82
+2024-05-19 20:05:19,777 INFO Scraped Varshan Ticket price: 0.18285
+2024-05-19 20:05:19,780 ERROR Unexpected error: 'timestamp'
+2024-05-19 20:05:20,086 INFO Successfully sent error message to Discord
+2024-05-19 20:05:43,897 INFO Scraped gold value: 0.029899
+2024-05-19 20:05:44,372 INFO Scraped Duriel Ticket price: 0.82
+2024-05-19 20:05:45,159 INFO Scraped Varshan Ticket price: 0.18285
+2024-05-19 20:05:45,162 ERROR Unexpected error: 'timestamp'
+2024-05-19 20:05:45,473 INFO Successfully sent error message to Discord
