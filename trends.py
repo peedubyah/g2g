@@ -1,3 +1,5 @@
+##Ignore me until further notice
+
 import requests
 import logging
 import csv
@@ -33,7 +35,7 @@ def calculate_trends(data, current_time):
     trends = {}
     for period in [12, 24, 72]:  # 12 hours, 24 hours, 3 days
         past_time = current_time - timedelta(hours=period)
-        past_data = data[data['timestamp'] <= past_time]
+        past_data = data[data.index <= past_time]
         if not past_data.empty:
             trends[f"{period}H"] = {
                 "gold_value": data.iloc[-1]['gold_value'] - past_data.iloc[-1]['gold_value'],
